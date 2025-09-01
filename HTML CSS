@@ -1,0 +1,34 @@
+Control + S, para guardar y que se muestren cambios en el GO LIVE
+
+<!DOCTYPE html>  (versiond de html)
+<html>  (define que todo lo que esta aqui adentro esta va ser la pagina web)
+    <head> (informacion de la pagina que no podemos ver)
+        <title>La mejor receta de noquis</title>
+    </head>
+    <body> (parte visual de la web)
+        
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>La mejor receta de noquis</title>
+    </head>
+    <body>
+        <h1>TITULO</h1>        (TITULOS, SOLO SE USA 1 H1 POR PAGINA WEB)
+        <h2>SUBTITULO</h2>
+        <h3>SUBTITULO</h3>
+        <h4>SUBTITULO</h4>
+        <h5>SUBTITULO</h5>
+        <h6>SUBTITULO</h6>
+        <P>  (PARRAFOS)
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium numquam iste, consequatur cumque blanditiis non, itaque doloremque consequuntur vero omnis sapiente debitis autem pariatur. Distinctio in odio asperiores dolorem voluptas!
+        </P>
+    </body>
+</html>
+
+
+
+
