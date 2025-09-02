@@ -11,19 +11,3 @@
         </ol>
     </body>
 </html>
-
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <tittle>Listas</tittle>
-    </head>
-    <body>
-        <ul>     (listas desordenadas, orden no importa)
-            <li>Elemento 1</li>
-            <li>Elemento 2</li>
-            <li>Elemento 3</li>
-        </ul>
-    </body>
-</html>
-
