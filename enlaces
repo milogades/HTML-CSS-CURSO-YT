@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Enlaces</tittle>
+    </head>
+    <body>
+        
+        <h1>Esta es la primera pagina</h1>
+        <h2>Enlaces</h2>
+        <p>
+            como se siente saber lo basico de HTML?
+        </p>
+        <a href="https://www.marca.com/" title="enlace a la segunda pagina">Segundo enlace</a>
+        <a href="enlaces_3.html" title="enlace a la tercera pagina">Tercer enlace</a>
+        <h2>Enlaces Target black</h2>
+        <a href="enlaces_2.html" target="_blank">Segundo enlace</a>
+    </body>
+</html>
