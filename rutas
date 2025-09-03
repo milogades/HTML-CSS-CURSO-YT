@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=5179s">CURSO HTML</a>
+        <a href="listas.html">Apartado de listas</a> <!-- Cuando el archivo esta en la misma carpeta -->
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=5179s">CURSO HTML</a>
+        <a href="../listas.html">Apartado de listas</a> <!-- Cuando el archivo esta una carpeta atras -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=5179s">CURSO HTML</a>
+        <a href="../../listas.html">Apartado de listas</a> <!-- Cuando el archivo esta dos carpetas atras -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=5179s">CURSO HTML</a>
+        <a href="imagenes/listas.html">Apartado de listas</a> <!-- Cuando el archivo esta una carpeta delante (imagenes por el nombre carpeta, no porque sea siempre asi) -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <a href="https://www.youtube.com/watch?v=ELSm-G201Ls&t=5179s">CURSO HTML</a>
+        <a href="imagenes/otracarpeta/listas.html">Apartado de listas</a> <!-- Cuando el archivo dos carpeta por delante -->
+    </body>
+</html>
