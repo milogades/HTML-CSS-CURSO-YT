@@ -1,11 +1,12 @@
-Control + S, para guardar y que se muestren cambios en el GO LIVE
+  <!-- Control + S, para guardar y que se muestren cambios en el GO LIVE -->
 
-<!DOCTYPE html>  (versiond de html)
-<html>  (define que todo lo que esta aqui adentro esta va ser la pagina web)
-    <head> (informacion de la pagina que no podemos ver)
+
+<!DOCTYPE html>  <!--(versiond de html)-->
+<html>  <!--(define que todo lo que esta aqui adentro esta va ser la pagina web)-->
+    <head> <!--(informacion de la pagina que no podemos ver)-->
         <title>La mejor receta de noquis</title>
     </head>
-    <body> (parte visual de la web)
+    <body> <!--(parte visual de la web)-->
         
     </body>
 </html>
@@ -17,7 +18,7 @@ Control + S, para guardar y que se muestren cambios en el GO LIVE
         <title>La mejor receta de noquis</title>
     </head>
     <body>
-        <h1>TITULO</h1>        (TITULOS, SOLO SE USA 1 H1 POR PAGINA WEB)
+        <h1>TITULO</h1>        <!--(TITULOS, SOLO SE USA 1 H1 POR PAGINA WEB)-->
         <h2>SUBTITULO</h2>
         <h3>SUBTITULO</h3>
         <h4>SUBTITULO</h4>
