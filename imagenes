@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Imagenes</tittle>
+    </head>
+    <body>
+        <img src="escudito.jpg" alt="Escudo real madrid">  <!-- El alt solo aparece si la imagen no carga bien) -->
+    </body>
+</html>
+
