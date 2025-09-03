@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Formularios</tittle>
+    </head>
+    <body>
+        <form>
+            <input type="text"> <!-- puede escribir lo que quieras -->
+            <input type="email"> <!-- tiene que ser un correo, con @ -->
+            <input type="password"> 
+            <input type="checkbox"> 
+            <input type="radio"> 
+            <input type="file"> 
+            <input type="date"> 
+            <input type="submit"> 
+        </form>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Formularios</tittle>
+    </head>
+    <body>
+        <form>
+            <input type="text" required> <!-- te obliga a rellenar ese campo -->
+            <input type="email">
+            <input type="password">
+            <input type="checkbox">
+            <input type="radio">
+            <input type="file">
+            <input type="date">
+            <input type="submit">
+        </form>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Formularios</tittle>
+    </head>
+    <body>
+        <form>
+            <input type="text" name="usarname">  <!-- asigna nombre a los campos, identifica input, no se pueden repetir input -->
+            <input type="email">
+            <input type="password">
+            <input type="checkbox">
+            <input type="radio">
+            <input type="file">
+            <input type="date">
+            <input type="submit">
+        </form>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>Formularios</tittle>
+    </head>
+    <body>
+        <form>
+            <input type="text" placeholder="escribe tu nombre"> <!-- aparece ese texto en la casilla antes de empezar a escribir -->
+            <input type="email">
+            <input type="password">
+            <input type="checkbox">
+            <input type="radio">
+            <input type="file">
+            <input type="date">
+            <input type="submit">
+        </form>
+    </body>
+</html>
